@@ -1,0 +1,8 @@
+.dropdown {
+  color: white;
+  position: relative;
+}
+
+.dropdown-menu {
+  position: absolute;
+}

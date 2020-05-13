@@ -1,0 +1,11 @@
+.navbar {
+  background-color: #04132d;
+  height: 20%;
+  display: flex;
+  align-items: flex-end;
+}
+
+.dropdowns {
+  margin-right: 5rem;
+  margin-left: 5rem;
+}

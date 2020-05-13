@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import './reset.css';
 
-import { Test } from './Test';
+import { Homepage } from './pages/Homepage';
 
-ReactDOM.render(<Test />, document.getElementById('root'));
+ReactDOM.render(<Homepage />, document.getElementById('root'));
